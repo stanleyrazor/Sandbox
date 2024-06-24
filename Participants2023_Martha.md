@@ -1,4 +1,5 @@
-Name: Martha Luka
-Country: Kenya/ UK
-Institution: University of Glasgow
-Research interest: NTDs, epidemiology & genomics!
+Name: Blessing Ogunlaran
+Country: Nigeria
+Institution: AIMS, South Africa
+Research interest: Geophysical Fluids Dynamics \
+
